@@ -1,2 +1,2 @@
 # sample-repo
-git かめ
+git かめ　練習
